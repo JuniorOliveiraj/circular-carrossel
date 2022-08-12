@@ -1,7 +1,8 @@
 
 # circular-carrossel
 <br>
-# clique na foto
+- 🖼 clique na foto
+
 <br>
 #  <a  style="text-decoration: none;" href="https://codepen.io/junioroliveiraj/full/eYeMVqW"  target="_blank">click here</a>
 
